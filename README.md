@@ -1,1 +1,2 @@
 # GAN
+The FashionGAN project is an advanced Generative Adversarial Network (GAN) framework designed to generate fashion-related images, specifically using the Fashion MNIST dataset as a base for training. This project demonstrates the capability of GANs to create realistic, high-quality images from random noise vectors, a crucial step in developing AI models that can generate synthetic content for various creative and practical applications.
